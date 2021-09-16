@@ -12,3 +12,4 @@ git reset 8df7c2dae3b987337fc2eecf3be5fd9ab308edc4 --hard
 git reset 8df7c2dae3b987337fc2eecf3be5fd9ab308edc4 --soft
 git checkout c091bf0ae6a9cf13a385550a3031e9655da261b3 Historia.txt
 git checkout master Historia.txt
+git prueba GA
