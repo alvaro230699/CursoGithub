@@ -1,2 +1,6 @@
 git init
 git status
+git commit -m
+git config --list --show-origin
+git config --list
+git add.
