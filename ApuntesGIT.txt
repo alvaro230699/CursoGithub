@@ -4,3 +4,7 @@ git commit -m
 git config --list --show-origin
 git config --list
 git add.
+git show
+git log Historia.txt
+git diff c8c31dcfa00a5185e46d9352d82b23528ff26ada 903ff8fd8fc38aa7e7cde5328a1c6c6babf4a584
+git reset --hard
