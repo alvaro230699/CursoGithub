@@ -8,3 +8,7 @@ git show
 git log Historia.txt
 git diff c8c31dcfa00a5185e46d9352d82b23528ff26ada 903ff8fd8fc38aa7e7cde5328a1c6c6babf4a584
 git reset --hard
+git reset 8df7c2dae3b987337fc2eecf3be5fd9ab308edc4 --hard
+git reset 8df7c2dae3b987337fc2eecf3be5fd9ab308edc4 --soft
+git checkout c091bf0ae6a9cf13a385550a3031e9655da261b3 Historia.txt
+git checkout master Historia.txt
