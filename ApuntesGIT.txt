@@ -20,3 +20,5 @@ git merge cambiosGit
 git remote add origin https://github.com/alvaro230699/CursoGithub.git
 git remote -v (VERBOSE o hacerlo verbal)
 git branch -m master main
+git pull origin main --allow-unrelated-histories (Solo cuando hay historias distintas en las ramas de origin(remoto) y main(local))
+git push origin main
