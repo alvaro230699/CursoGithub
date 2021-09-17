@@ -3,6 +3,7 @@ git status
 git commit -m
 git config --list --show-origin
 git config --list
+git config --global user.email alvaro.neyra@pucp.edu.pe
 git add.
 git show
 git log Historia.txt
