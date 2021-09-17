@@ -16,3 +16,7 @@ git branch cambiosGit
 git checkout cambiosGit
 git commit -am ""
 git branch
+git merge cambiosGit
+git remote add origin https://github.com/alvaro230699/CursoGithub.git
+git remote -v (VERBOSE o hacerlo verbal)
+
